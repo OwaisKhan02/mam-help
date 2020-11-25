@@ -1,1 +1,2 @@
-# mam-help
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
